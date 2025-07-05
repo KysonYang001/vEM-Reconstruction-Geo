@@ -1,0 +1,3 @@
+[submodule "third_party/MeshCNN"]
+	path = third_party/MeshCNN
+	url = https://github.com/cyteena/MeshCNN.git
