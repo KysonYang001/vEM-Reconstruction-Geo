@@ -1,8 +1,10 @@
 # Note
 
-The original implementation of MeshCNN is too old. It has the following errors:
-- Extremely Slow
-- Incompatible with the latesest CUDA kernel
-    - cause the matmul error
+change to 4090, not that slow
 
-We may use the implementation from PyG
+# Third_Party
+
+- MeshCNN (modified)
+- vEMINR
+
+https://github.com/KysonYang001/vEMINR.git
