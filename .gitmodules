@@ -1,3 +1,6 @@
 [submodule "third_party/MeshCNN"]
 	path = third_party/MeshCNN
 	url = https://github.com/cyteena/MeshCNN.git
+[submodule "third_party/vEMINR"]
+	path = third_party/vEMINR
+	url = https://github.com/KysonYang001/vEMINR.git
